@@ -1,4 +1,4 @@
-# Smarty-GPT
+# Chatty: the library
 ## A wrapper of LLMs (chatgpt, gpt4, etc.) that biases its behaviour using prompts
 
 <p align="center">
